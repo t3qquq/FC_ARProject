@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ARProject",
+			"Path": "E:\\UE Projects\\First Project\\ARProject\\Source\\ARProject.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ARProjectEditor",
+			"Path": "E:\\UE Projects\\First Project\\ARProject\\Source\\ARProjectEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\ue projects\\first project\\arproject\\intermediate\\build\\win64\\unrealeditor\\inc\\arproject\\uht\\arprojectgamemodebase.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\ue projects\\first project\\arproject\\intermediate\\build\\win64\\x64\\arprojecteditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "e:\\ue projects\\first project\\arproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\arproject\\definitions.arproject.h",
+            "e:\\ue projects\\first project\\arproject\\source\\arproject\\arprojectgamemodebase.h",
+            "e:\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "e:\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "e:\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "e:\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "e:\\ue projects\\first project\\arproject\\intermediate\\build\\win64\\unrealeditor\\inc\\arproject\\uht\\arprojectgamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
